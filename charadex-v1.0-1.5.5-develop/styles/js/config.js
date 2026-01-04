@@ -17,7 +17,7 @@ let charadex = {};
 charadex.site = {
   title: "Rureks",
   url: "https://rureks.github.io",
-  description: `A tool for organizing small ARPGs and species.`
+  description: `The Rurek closed species masterlist and website.`
 }
 
 /* ==================================================================== */
