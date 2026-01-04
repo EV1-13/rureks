@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Rureks",
-  url: "https://rureks.github.io",
+  url: "https://ev1-13.github.io",
   description: `lizard`
 }
 
