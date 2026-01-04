@@ -15,21 +15,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: #1a0e5b;
+  --cd-primary-color: #5757c0;
   --cd-primary-text-color: #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #939799;
+  --cd-secondary-color: #454798;
   --cd-secondary-text-color: #fff;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #f8f8f8;
-  --cd-content-background-color: #ffffff;
-  --cd-faded-background-color: #f8f8f8;
+  --cd-body-background-color: #080023;
+  --cd-content-background-color: #0a0544;
+  --cd-faded-background-color: #090027;
 
   /* Background Extras */
   --cd-body-background-image: url();
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #303030;
-  --cd-faded-text-color: #575757;
+  --cd-body-text-color: #5849c7;
+  --cd-faded-text-color: #83829f;
 
   /* ============================================================= */
   /* Borders
@@ -51,12 +51,12 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #222222;
+  --cd-navbar-background-color: #05012f;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
-  --cd-navbar-text-color: var(--cd-content-background-color);
+  --cd-navbar-text-color: var(--cd-primary-color);
   --cd-navbar-link-color: var(--cd-navbar-text-color);
-  --cd-navbar-link-color-hover: var(--cd-primary-color);
+  --cd-navbar-link-color-hover: var(--cd-secondary-color);
   --cd-navbar-font-family: var(--cd-header-font-family);
 
   /* ============================================================= */
@@ -125,7 +125,7 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #4c8ebd;
+  --cd-link-text-color: #27a8e8;
   --cd-link-text-color-hover: var(--cd-secondary-color);
 
 
